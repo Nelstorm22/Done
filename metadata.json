@@ -1,0 +1,5 @@
+{
+  "name": "Done",
+  "description": "A hyper-minimal task completion app designed for focus. Set one task, mark it finished, and build a habit through temporary progress visualization.",
+  "requestFramePermissions": []
+}
